@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+- [Submission Quick Links](#submission-quick-links)
 - [Project Overview](#project-overview)
 - [Dataset Description](#dataset-description)
 - [Methodology & Implementation](#methodology--implementation)
@@ -13,6 +14,11 @@
 - [How to Reproduce](#how-to-reproduce)
 - [Screenshots](#screenshots)
 - [References](#references)
+
+## Submission Quick Links
+
+- Notebook deliverable: `Lab1_Transfermarkt_Transfers.ipynb`
+- Screenshot evidence: `screenshots/` (see `screenshots/README.md` for the expected filenames)
 
 ## Project Overview
 
