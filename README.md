@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-- Project Overview
-- Dataset Description
-- Methodology & Implementation
-- Key Findings & Insights
-- Challenges & Design Decisions
-- Repository Structure
-- How to Reproduce
-- Screenshots
-- References
+- [Project Overview](#project-overview)
+- [Dataset Description](#dataset-description)
+- [Methodology & Implementation](#methodology--implementation)
+- [Key Findings & Insights](#key-findings--insights)
+- [Challenges & Design Decisions](#challenges--design-decisions)
+- [Repository Structure](#repository-structure)
+- [How to Reproduce](#how-to-reproduce)
+- [Screenshots](#screenshots)
+- [References](#references)
 
 ## Project Overview
 
