@@ -13,12 +13,13 @@
 - [Repository Structure](#repository-structure)
 - [How to Reproduce](#how-to-reproduce)
 - [Screenshots](#screenshots)
+- [Reflections](#reflections)
 - [References](#references)
 
 ## Submission Quick Links
 
-- Notebook deliverable: `Lab1_Transfermarkt_Transfers.ipynb`
-- Screenshot evidence: `screenshots/` (see `screenshots/README.md` for the expected filenames)
+- Notebook deliverable: [Lab1_Transfermarkt_Transfers.ipynb](Lab1_Transfermarkt_Transfers.ipynb)
+- Screenshot evidence: [screenshots/](screenshots/) (see [screenshots/README.md](screenshots/README.md) for the expected filenames)
 
 ## Project Overview
 
@@ -173,6 +174,13 @@ Expected files (Transfermarkt):
 - `screenshots/tm_19_heatmap.png` (optional)
 
 See `screenshots/README.md` for the same list and naming guidance.
+
+## Reflections
+
+- The biggest takeaway from this lab is that “cleaning” decisions change the story the data tells. Missing-fee handling, deduplication, and outlier rules all noticeably affected summary statistics and correlations.
+- I learned that right-skewed variables (like transfer fees) often need transforms or summaries like median/IQR to make plots and statistics easier to interpret.
+- A practical challenge was treating “missing” as meaningful (undisclosed fees) instead of automatically dropping rows; keeping an indicator column made the preprocessing more honest and reproducible.
+- If I continued this project, I would break down the analysis by league/season and add simple modeling (e.g., predicting fee buckets) while keeping the same transparent preprocessing pipeline.
 
 ## References
 
