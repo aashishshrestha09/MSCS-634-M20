@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Kaggle export dump (contains files >100MB; not suitable for standard GitHub repos)
+datasets/

@@ -1,7 +1,16 @@
-.venv/
+# Python
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+ENV/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# OS
 .DS_Store
 
-# Kaggle export dump (contains files >100MB; not suitable for standard GitHub repos)
-datasets/
+# Data science cache
+*.pickle
+*.pkl
