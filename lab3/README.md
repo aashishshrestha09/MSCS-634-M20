@@ -11,14 +11,14 @@ This lab applies **K-Means** and **K-Medoids** clustering to the [Wine Dataset](
 | **1. Data Preparation** | Load Wine Dataset, EDA, data quality checks, z-score standardization (StandardScaler)              |
 | **2. K-Means**          | Cluster with k=3, compute Silhouette Score and ARI                                                 |
 | **3. K-Medoids**        | Cluster with k=3 (alternate PAM), compute Silhouette Score and ARI                                 |
-| **4. Visualization**    | PCA 2D scatter plots with centroids/medoids, true label comparison, silhouette analysis, bar chart  |
+| **4. Visualization**    | PCA 2D scatter plots with centroids/medoids, true label comparison, silhouette analysis, bar chart |
 
 ## Results
 
-| Metric                  | K-Means | K-Medoids |
-| ----------------------- | ------- | --------- |
-| Silhouette Score        | 0.2849  | 0.2660    |
-| Adjusted Rand Index     | 0.8975  | 0.7263    |
+| Metric              | K-Means | K-Medoids |
+| ------------------- | ------- | --------- |
+| Silhouette Score    | 0.2849  | 0.2660    |
+| Adjusted Rand Index | 0.8975  | 0.7263    |
 
 ## Key Observations
 
