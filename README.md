@@ -8,6 +8,7 @@ This repository is organized by lab folders so we can keep **Lab 1, Lab 2, Lab 3
 - [Lab 2](lab2/README.md) — Classification Using KNN and RNN Algorithms (Wine Dataset)
 - [Lab 3](lab3/README.md) — Clustering Analysis Using K-Means and K-Medoids Algorithms (Wine Dataset)
 - [Lab 4](lab4/README.md) — Regression Analysis with Regularization Techniques (Diabetes Dataset)
+- [Lab 5](lab5/README.md) — Clustering Techniques Using DBSCAN and Hierarchical Clustering (Wine Dataset)
 
 ## Quick Start
 
@@ -43,4 +44,12 @@ jupyter notebook Lab3_KMeans_KMedoids_Clustering.ipynb
 cd lab4
 pip install -r requirements.txt
 jupyter notebook Lab4_Regression_Regularization.ipynb
+```
+
+### Lab 5
+
+```bash
+cd lab5
+pip install -r requirements.txt
+jupyter notebook Lab5_DBSCAN_Hierarchical_Clustering.ipynb
 ```
