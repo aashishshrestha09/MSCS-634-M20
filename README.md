@@ -9,6 +9,7 @@ This repository is organized by lab folders so we can keep **Lab 1, Lab 2, Lab 3
 - [Lab 3](lab3/README.md) — Clustering Analysis Using K-Means and K-Medoids Algorithms (Wine Dataset)
 - [Lab 4](lab4/README.md) — Regression Analysis with Regularization Techniques (Diabetes Dataset)
 - [Lab 5](lab5/README.md) — Clustering Techniques Using DBSCAN and Hierarchical Clustering (Wine Dataset)
+- [Lab 6](lab6/README.md) — Association Rule Mining with Apriori and FP-Growth (Online Retail Dataset)
 
 ## Quick Start
 
@@ -52,4 +53,12 @@ jupyter notebook Lab4_Regression_Regularization.ipynb
 cd lab5
 pip install -r requirements.txt
 jupyter notebook Lab5_DBSCAN_Hierarchical_Clustering.ipynb
+```
+
+### Lab 6
+
+```bash
+cd lab6
+pip install -r requirements.txt
+jupyter notebook Lab6_Association_Rule_Mining.ipynb
 ```
